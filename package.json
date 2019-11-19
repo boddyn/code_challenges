@@ -1,0 +1,8 @@
+{
+  "name": "code_challenges",
+  "version": "1.0.0",
+  "description": "Determines if a supplied word is a 'pyramid' word",
+  "main": "main.js",
+  "scripts": {},
+  "author": "boddyn"
+}
